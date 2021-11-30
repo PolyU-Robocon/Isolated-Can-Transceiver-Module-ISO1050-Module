@@ -1,8 +1,10 @@
 # Isolated-Can-Transceiver-Module-ISO1050-Module
 Isolated Can Transceiver Module - ISO 1050 Module  
-![image](https://user-images.githubusercontent.com/45313904/135437344-21cfec2f-9c72-400b-90a4-2b78935f0580.png)   
+![image](https://user-images.githubusercontent.com/45313904/144106388-0bfc97e5-0fa4-49f8-91fc-3c7647e63e2a.png)  
 # Features
 * 1 Mbps
+* ESD protection
+* Common mode noise filting
 * I/O Voltage Range Supports 3.3-V and 5-V Microprocessors
 * Meets the Requirements of ISO11898-2(ML: I double this, the chip can but the module....)
 * 2500-V(RMS) Isolation
@@ -23,9 +25,9 @@ Isolated Can Transceiver Module - ISO 1050 Module
 | 7    | CAN L    | Max speed 1 Mbps                  |
 | 8    | VCC 2    | Reference to GND 2                |
 
-#Recommended Footprint
+#Recommended Footprint(not update)
 ![image](https://user-images.githubusercontent.com/45313904/135704904-11facb53-97ba-4988-a63c-1c9261f64786.png)
 
 
-#BOM
+#BOM(not update)
 ![image](https://user-images.githubusercontent.com/45313904/135437025-d2778484-38d4-4c6e-9776-bcb6fb02ff37.png)

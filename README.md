@@ -1,6 +1,6 @@
 # Isolated-Can-Transceiver-Module-ISO1050-Module
 Isolated Can Transceiver Module - ISO 1050 Module  
-![image](https://user-images.githubusercontent.com/45313904/144106388-0bfc97e5-0fa4-49f8-91fc-3c7647e63e2a.png)  
+![image](https://user-images.githubusercontent.com/45313904/144106388-0bfc97e5-0fa4-49f8-91fc-3c7647e63e2a.png) 
 # Features
 * 1 Mbps
 * ESD protection

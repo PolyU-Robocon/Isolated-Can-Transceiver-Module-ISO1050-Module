@@ -13,7 +13,7 @@ Isolated Can Transceiver Module - ISO 1050 Module
 * Bus-Fault Protection of –27 V to 40 V
 * Driver (TXD) Dominant Time-out Function
 
-#Pin Map
+# Pin Map
 | Pin  | Function | Note                              |
 |------|----------|-----------------------------------|
 | 1    | VCC 1    | Reference to GND 1                |
@@ -25,9 +25,9 @@ Isolated Can Transceiver Module - ISO 1050 Module
 | 7    | CAN L    | Max speed 1 Mbps                  |
 | 8    | VCC 2    | Reference to GND 2                |
 
-#Recommended Footprint(not update)
+# Recommended Footprint
 ![image](https://user-images.githubusercontent.com/45313904/135704904-11facb53-97ba-4988-a63c-1c9261f64786.png)
 
 
-#BOM(not update)
+# BOM(not update)
 ![image](https://user-images.githubusercontent.com/45313904/135437025-d2778484-38d4-4c6e-9776-bcb6fb02ff37.png)
